@@ -20,7 +20,7 @@ The author covers every aspect of a Data Analysis operation, from input and clea
 I especially enjoyed the  Appendix section where the author covers advanced topics on NumPy, pandas and IPython system.
 
 <p align="center">
-    <img  alt="My Rating" src="images/starRating.PNG" class="img-responsive" title="My Rating">
+    <src="images/starRating.PNG" title="My Rating">
 </p>
 
 ## Note
