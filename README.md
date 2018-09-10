@@ -19,6 +19,8 @@ The author covers every aspect of a Data Analysis operation, from input and clea
 
 I especially enjoyed the  Appendix section where the author covers advanced topics on NumPy, pandas and IPython system.
 
+## Note
+I have only included the Jupyter notebooks containing the notes from the book. I have not included the datasets because some of them are quite large and take a whole lot of space in the repo. You can get the datasets at books's official [GitHub Repository](https://github.com/wesm/pydata-book)
 
 ## License
 Attribution: Python for Data Analysis by Wes McKinney (O’Reilly). Copyright 2017 Wes McKinney, 978-1-491-95766-0.
